@@ -19,7 +19,7 @@ for i in range(0, 118):
 
 #getting user input
 def getInput():
-    inputString = input(">> ").lower()
+    inputString = input(">> ").lower().strip()
     return inputString
 
 #prints only first time
