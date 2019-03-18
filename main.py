@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#TODO make menus look nicer
+#TODO make menus align for all elements
 
 from element import Element
 import subprocess
